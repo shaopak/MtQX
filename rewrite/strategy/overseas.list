@@ -1,4 +1,4 @@
-#MtQX.strategy.overseas.v1 @25/11/2022
+#MtQX.strategy.overseas.v1 @27/11/2022
 
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
@@ -895,7 +895,7 @@ IP-CIDR,208.43.0.0/16,海外服务
 
 # > Others
 HOST,jdsharedresourcescdn.azureedge.net,海外服务
-
+HOST-SUFFIX,45thz.com,海外服务
 HOST-SUFFIX,account-paypal.info,海外服务
 HOST-SUFFIX,account-paypal.net,海外服务
 HOST-SUFFIX,account-paypal.org,海外服务
