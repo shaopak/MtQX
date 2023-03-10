@@ -22,6 +22,9 @@ USER-AGENT,Instagram*,海外服务
 USER-AGENT,Resilio Sync*,海外服务
 USER-AGENT,WhatsApp*,海外服务
 
+# > TypingClub
+HOST-SUFFIX,typingclub.com,海外服务
+
 # > Google Voice
 HOST,voice.telephony.goog,海外服务
 
