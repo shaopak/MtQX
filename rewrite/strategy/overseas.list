@@ -13,6 +13,17 @@ HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
 
+HOST-SUFFIX,btdig.com,海外服务
+HOST-SUFFIX,thepiratebay.org,海外服务
+HOST-SUFFIX,pdoro.com,海外服务
+HOST-SUFFIX,torrentdownload.info,海外服务]
+HOST-SUFFIX,rarbg.to,海外服务
+HOST-SUFFIX,1377x.is,海外服务
+HOST-SUFFIX,eztv.re,海外服务
+HOST-SUFFIX,rutracker.org,海外服务
+HOST-SUFFIX,nyaa.si,海外服务
+HOST-SUFFIX,acgnx.se,海外服务
+HOST-SUFFIX,kisssub.org,海外服务
 
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
