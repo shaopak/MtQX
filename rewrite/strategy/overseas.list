@@ -1,18 +1,6 @@
 #MtQX.strategy.overseas.v1 @27/11/2022
 
-# > Emby
-HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
-HOST-SUFFIX,tv.emby.media,海外服务
-HOST-SUFFIX,emby.media,海外服务
-HOST-SUFFIX,emby.media,海外服务
-HOST-SUFFIX,emby.xeton.dev,海外服务
-HOST-SUFFIX,tv.emby.neko.re,海外服务
-HOST-SUFFIX,jellyfin.xeton.dev,海外服务
-HOST-SUFFIX,movie.xeton.dev,海外服务
-HOST-SUFFIX,servers.xeton.dev,海外服务
-IP-CIDR,38.94.111.242/32,海外服务
-IP-CIDR,38.94.111.242/22,海外服务
-
+# > Update
 HOST-SUFFIX,btdig.com,海外服务
 HOST-SUFFIX,thepiratebay.org,海外服务
 HOST-SUFFIX,pdoro.com,海外服务
@@ -25,6 +13,19 @@ HOST-SUFFIX,nyaa.si,海外服务
 HOST-SUFFIX,acgnx.se,海外服务
 HOST-SUFFIX,kisssub.org,海外服务
 HOST-SUFFIX,rarbgprx.org,海外服务
+
+# > Emby
+HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
+HOST-SUFFIX,tv.emby.media,海外服务
+HOST-SUFFIX,emby.media,海外服务
+HOST-SUFFIX,emby.media,海外服务
+HOST-SUFFIX,emby.xeton.dev,海外服务
+HOST-SUFFIX,tv.emby.neko.re,海外服务
+HOST-SUFFIX,jellyfin.xeton.dev,海外服务
+HOST-SUFFIX,movie.xeton.dev,海外服务
+HOST-SUFFIX,servers.xeton.dev,海外服务
+IP-CIDR,38.94.111.242/32,海外服务
+IP-CIDR,38.94.111.242/22,海外服务
 
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
