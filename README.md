@@ -1,2 +1,2 @@
 # MtQX
-Quantumult X自用规则整理
+QuantumultX自用规则整理
