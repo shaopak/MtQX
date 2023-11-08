@@ -1,5 +1,9 @@
 # Streaming Media
 
+# (Newly Added)
+# > xvideos
+DOMAIN-SUFFIX,xvideos.com
+
 # (Live)
 # > Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
@@ -55,8 +59,6 @@ USER-AGENT,Overcast*
 DOMAIN-SUFFIX,overcast.fm
 
 # (Video)
-# > xvideos
-DOMAIN-SUFFIX,xvideos.com
 # > AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
@@ -320,3 +322,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+
+# (Newly Added)
+# > xvideos
+DOMAIN-SUFFIX,xvideos.com
