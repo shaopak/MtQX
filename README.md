@@ -1,2 +1,2 @@
 # MtQX
-Quantumult自用规则整理
+Quantumult X自用Filter整理
