@@ -1,4 +1,4 @@
-hostname = pan.baidu.com
+hostname = *.baidu.com
 
 # > BaiduYunpan
-^https?:\/\/pan\.baidu\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: pan.baidu.com$2
+^https?:\/\/(.*\.)?baidu\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: pan.baidu.com$2
