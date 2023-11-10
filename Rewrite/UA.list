@@ -1,0 +1,4 @@
+hostname = pan.baidu.com
+
+# > BaiduDrive
+^https?:\/\/pan\.baidu\.com\/ url request-header pan.baidu.com
