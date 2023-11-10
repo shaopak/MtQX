@@ -1,6 +1,5 @@
 hostname = *.baidupcs.com, pan.baidu.com
 
 # > BaiduNetdisk
-
-^https?:\/\/.*\/b\/.*\.baidupcs\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: pan.baidu.com$2
+^https?:\/\/(.*\.)?baidupcs\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: pan.baidu.com$2
 ^https?:\/\/pan\.baidu\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: pan.baidu.com$2
