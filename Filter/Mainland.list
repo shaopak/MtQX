@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
 
 # (Newly Added)
-DOMAIN-SUFFIX,tarkt.tv
+DOMAIN-SUFFIX,trakt.tv
 
 IP-ASN,4134 // 中国电信骨干网
 IP-ASN,4538 // 中国教育科研网络中心
